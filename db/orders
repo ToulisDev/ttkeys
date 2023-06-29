@@ -1,0 +1,2 @@
+{"_id":{"$oid":"63dee43f69600000bd0067b2"},"user_id":{"$oid":"63dee42d69600000bd0067b1"},"products":[{"$oid":"63dbf7eb010d00009c0049e8"}],"total_price":39.99,"date":{"$date":"2023-02-04T23:03:27.587Z"}}
+{"_id":{"$oid":"63dee51169600000bd0067b3"},"user_id":{"$oid":"63dee42d69600000bd0067b1"},"products":[{"$oid":"63dbf74d010d00009c0049e3"}],"total_price":59.99,"date":{"$date":"2023-02-04T23:06:57.411Z"}}

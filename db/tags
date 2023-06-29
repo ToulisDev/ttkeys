@@ -1,0 +1,8 @@
+{"_id":{"$oid":"63dbf74d226c1d581eec68c2"},"tag":"RPG","products":[{"$oid":"63dbf74d010d00009c0049e3"},{"$oid":"63dbf7eb010d00009c0049e8"},{"$oid":"63dbf84f010d00009c0049eb"},{"$oid":"63dc2a28010d00009c0049f4"},{"$oid":"63dc3435010d00009c0049f7"}]}
+{"_id":{"$oid":"63dbf74d226c1d581eec68c3"},"tag":"Action","products":[{"$oid":"63dbf74d010d00009c0049e3"},{"$oid":"63dbf7eb010d00009c0049e8"},{"$oid":"63dbf84f010d00009c0049eb"},{"$oid":"63dc2a28010d00009c0049f4"},{"$oid":"63dc3435010d00009c0049f7"},{"$oid":"63dcfce697110000c7003e68"}]}
+{"_id":{"$oid":"63dbf74d226c1d581eec68c4"},"tag":"FPS","products":[{"$oid":"63dbf74d010d00009c0049e3"}]}
+{"_id":{"$oid":"63dbf74d226c1d581eec68c5"},"tag":"Adventure","products":[{"$oid":"63dbf74d010d00009c0049e3"},{"$oid":"63dbf7eb010d00009c0049e8"},{"$oid":"63dbf84f010d00009c0049eb"},{"$oid":"63dc2a28010d00009c0049f4"},{"$oid":"63dc3435010d00009c0049f7"},{"$oid":"63dcfce697110000c7003e68"}]}
+{"_id":{"$oid":"63dbf7eb226c1d581eec6911"},"tag":"Open World","products":[{"$oid":"63dbf7eb010d00009c0049e8"},{"$oid":"63dbf84f010d00009c0049eb"},{"$oid":"63dc2a28010d00009c0049f4"},{"$oid":"63dc3435010d00009c0049f7"}]}
+{"_id":{"$oid":"63dc2a28226c1d581eec7f07"},"tag":"Horror","products":[{"$oid":"63dc2a28010d00009c0049f4"},{"$oid":"63dc3435010d00009c0049f7"}]}
+{"_id":{"$oid":"63dcfbec7954dd178a04283e"},"tag":"Arcade","products":[{"$oid":"63dcfbec97110000c7003e64"}]}
+{"_id":{"$oid":"63dcfce67954dd178a042859"},"tag":"Zombies","products":[{"$oid":"63dcfce697110000c7003e68"}]}

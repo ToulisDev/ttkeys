@@ -1,0 +1,5 @@
+{"_id":{"$oid":"63dbf74d010d00009c0049e4"},"chunkSize":261120,"filename":"image","length":596776,"uploadDate":{"$date":"2023-02-02T17:47:57.629Z"},"md5":"a80adf7751c95fc7ab812d722f908b72"}
+{"_id":{"$oid":"63dbf7eb010d00009c0049e9"},"chunkSize":261120,"filename":"image","length":69310,"uploadDate":{"$date":"2023-02-02T17:50:35.282Z"},"md5":"a4b04efa8cda55373adeafc9dc16ab94"}
+{"_id":{"$oid":"63dc3435010d00009c0049f8"},"chunkSize":261120,"filename":"image","length":306863,"uploadDate":{"$date":"2023-02-02T22:07:49.299Z"},"md5":"0584d523b978de7d1317acc146333d32"}
+{"_id":{"$oid":"63dcfbec97110000c7003e65"},"chunkSize":261120,"filename":"image","length":90905,"uploadDate":{"$date":"2023-02-03T12:19:56.126Z"},"md5":"5cca5784fac06a5a1f22af4bdb2525bb"}
+{"_id":{"$oid":"63dcfce697110000c7003e69"},"chunkSize":261120,"filename":"image","length":294965,"uploadDate":{"$date":"2023-02-03T12:24:06.418Z"},"md5":"2a562d40a3b0640e593b7567f0012dfb"}
